@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thucanh305
-- 👀 I’m interested in travelling and food tasting ~
-- 🌱 I’m currently learning coding
+- 👀 Currently, I am attending the Master of Science in Business Analytics at UT Dallas and will graduate by Dec 2022
+- 🌱 Before attending graduate school, I had 4 years of experience in Consulting ,Project Management and Data Analysis. As a person with a lifetime love of relational mathematics and pattern recognition, I thrive on digging into complex data sets and producing insightful, data-driven strategic recommendations. 
 - 📫 How to reach me : https://www.linkedin.com/in/thucanhngho/
 
 <!---
